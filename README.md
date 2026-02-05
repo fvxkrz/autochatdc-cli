@@ -14,3 +14,6 @@ javascriptnya kalau hilang ketik manual
 javascript:
 
 configure your prompt/behaviour on .txt
+
+
+RUN node index.js
