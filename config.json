@@ -1,0 +1,15 @@
+{
+  "discordToken": "isi",
+  "channels": ["1373850584339189870"],
+  "ai": {
+    "provider": "groq",
+    "apiKey": "isi",
+    "model": "llama-3.1-8b-instant"
+  },
+  "timing": {
+    "minReply": 3,
+    "maxReply": 10,
+    "loopMin": 5,
+    "loopMax": 10
+  }
+}

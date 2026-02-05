@@ -1,0 +1,19 @@
+# Delay & Behaviour
+
+typing_min = 1
+typing_max = 8
+
+post_cooldown = 600
+
+loop_min = 60
+loop_max = 100
+
+scan = 50
+
+reply_chance = 1.0
+thread_chance = 0.1
+followup_chance = 1.0
+max_thread_replies = 3
+
+emoji_enabled = false
+emoji_percent = 0.1
